@@ -1,9 +1,10 @@
 ### ようこそ✨
 
-Duongと申します!Hanoi Universityの学生です。
+Duongと申します! <br/>
+Hanoi Universityの学生です。<br/>
 日本語を勉強しているから、どこでも練習しています。
 
-About me: 
+**About me**
 - 🖥️ Java Developer
 - 🎛️ Artcore Producer
 
