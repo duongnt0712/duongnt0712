@@ -2,4 +2,4 @@
 
 好きな仕事を選んでよかった!
 
-currently studying: ocp 17 1Z0-829
+currently studying: aws DVA-C02, ocp 17 1Z0-829.
